@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "pelota",
+        "precio": 2000
+    },
+    {
+        "id": 2,
+        "nombre": "raqueta",
+        "precio": 3000
+    },
+    {
+        "id": 3,
+        "nombre": "silla",
+        "precio": 1000
+    },
+    {
+        "id": 4,
+        "nombre": "mesa",
+        "precio": 5000
+    },
+    {
+        "id": 5,
+        "nombre": "arco",
+        "precio": 4000
+    },
+    {
+        "id": 6,
+        "nombre": "guantes",
+        "precio": 9000
+    },
+    {
+        "id": 7,
+        "nombre": "bufanda",
+        "precio": 6000
+    },
+    {
+        "id": 8,
+        "nombre": "gorro",
+        "precio": 8000
+    },
+    {
+        "id": 9,
+        "nombre": "remera",
+        "precio": 7000
+    },
+    {
+        "id": 10,
+        "nombre": "pantalon",
+        "precio": 2500
+    }
+]
